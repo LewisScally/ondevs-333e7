@@ -18,6 +18,7 @@ sections:
           * Mauris a mi tincidunt
           * Suspendisse ut lacus
           * Etiam eget dui a augue
+          
         actions:
           - type: action
             template: action
@@ -46,7 +47,9 @@ sections:
         template: pricing_plan
         title: Enterprise
         subtitle: For very large businesses
-        price: $149/m
+        price: $149/m 
+        <script async src="https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"></script>
+<div hidden id="snipcart" data-api-key="YOUR_PUBLIC_API_KEY"></div>
         details: |-
           * Vestibulum non eros quis
           * Aenean iaculis lorem
