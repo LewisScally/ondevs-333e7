@@ -5,6 +5,7 @@ sections:
     template: section_contact
     section_id: contact
     title: Contact
+    <div data-netlify-identity-button>Login with Netlify Identity</div>
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
